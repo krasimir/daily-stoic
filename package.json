@@ -1,6 +1,6 @@
 {
   "name": "daily-stoic",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Stoic quotes",
   "main": "index.js",
   "scripts": {},
