@@ -1,0 +1,9 @@
+{
+  "name": "daily-stoic",
+  "version": "0.1.0",
+  "description": "Stoic quotes",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Krasimir Tsonev",
+  "license": "MIT"
+}
