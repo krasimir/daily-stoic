@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const print = require("print-message");
 
 const quotes = require("./data.json");
